@@ -1,0 +1,10 @@
+.container{
+    display: flex;
+    width: 80vw;
+    margin: 0 auto;
+    justify-content: space-between;
+}
+
+.reverse{
+    flex-direction: row-reverse;
+}
